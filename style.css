@@ -1,0 +1,48 @@
+body{
+  margin: 0;
+  font: Arial;
+
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+  }
+
+.row{
+  display: flex;
+}
+
+.main-content{
+  width: 70%;
+}
+
+.orange-text{
+  color: orange;
+}
+
+.subhead{
+  background-color: #281B2D;
+  color: white;
+  font-size: 48px;
+  padding: 20 px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.side-head{
+  background-color: #281B2D;
+  color: white;
+  font-size: 48px;
+  padding: 10 px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.colum-left{
+  margin-left: 25px;
+}
+
+.sidebar{
+  width: 30%;
+  margin-left: 45px;
+}
